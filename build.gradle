@@ -20,4 +20,4 @@ allprojects {
 
 apply plugin: 'maven'
 
-group = 'com.github.YourUsername'
+group = 'com.github.veronicz'
